@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 95e66c6366d904e98bc83428217d4fd7, type: 3}
+  m_Name: Nums
+  m_EditorClassIdentifier: 
+  _data:
+    _json: '{"graph":{"variables":{"Kind":"Flow","collection":{"$content":[],"$version":"A"},"$version":"A"},"controlInputDefinitions":[],"controlOutputDefinitions":[],"valueInputDefinitions":[],"valueOutputDefinitions":[],"title":"Nums","summary":null,"pan":{"x":-175.5,"y":51.0},"zoom":1.0,"elements":[{"argumentCount":0,"coroutine":false,"defaultValues":{"target":null,"name":{"$content":"","$type":"System.String"}},"position":{"x":-124.0,"y":-46.0},"guid":"7cf4ccef-0083-42ee-800a-bc3accb19c86","$version":"A","$type":"Unity.VisualScripting.CustomEvent","$id":"9"},{"specifyFallback":false,"kind":"Scene","defaultValues":{"name":{"$content":"OnNumClickName","$type":"System.String"}},"position":{"x":-403.0,"y":-29.0},"guid":"17e2c1b8-7bbb-4135-947f-ce535aba6e52","$version":"A","$type":"Unity.VisualScripting.GetVariable","$id":"11"},{"sourceUnit":{"$ref":"11"},"sourceKey":"value","destinationUnit":{"$ref":"9"},"destinationKey":"name","guid":"ad198886-be80-444e-af92-f4909e812ea7","$type":"Unity.VisualScripting.ValueConnection"}],"$version":"A"}}'
+    _objectReferences: []

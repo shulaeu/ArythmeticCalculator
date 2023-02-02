@@ -5,5 +5,5 @@ public enum OperarionTypes
     Minus,
     Multiply,
     Divide,
-    Result
+    //Result
 }
